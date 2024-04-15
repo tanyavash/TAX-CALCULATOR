@@ -38,6 +38,14 @@ This is a web application that allows users to calculate their tax based on thei
 
 You can access the hosted web app [here](https://tax-calculator-tanya.netlify.app/).
 
+## Screenshots
+
+![Screenshot](https://res.cloudinary.com/dxuuxgs6q/image/upload/v1713204927/Fyleproject/img_1_ekjz0c.png)
+![Screenshot](https://res.cloudinary.com/dxuuxgs6q/image/upload/v1713205161/Fyleproject/img_2_kzyjcw.png)
+![Screenshot](https://res.cloudinary.com/dxuuxgs6q/image/upload/v1713205162/Fyleproject/img_3_cexdkq.png)
+![Screenshot](https://res.cloudinary.com/dxuuxgs6q/image/upload/v1713205162/Fyleproject/img_4_ajybv4.png)
+![Screenshot](https://res.cloudinary.com/dxuuxgs6q/image/upload/v1713205162/Fyleproject/img_5_kvc2ao.png)
+
 ## Contributors
 
 TANYA VASHISTHA
